@@ -3,7 +3,7 @@ package proGrammers_KaKao_1;
 import java.util.*;
 import java.util.stream.*;
 
-/*      link : https://programmers.co.kr/learn/courses/30/lessons/67256
+/*      프로그래머스 link : https://programmers.co.kr/learn/courses/30/lessons/67256
  * 		-이클립스 버젼-
  * 
  * */
