@@ -5,7 +5,7 @@ import java.util.stream.*;
 
 /*      프로그래머스 link : https://programmers.co.kr/learn/courses/30/lessons/67256
  * 		-이클립스 버젼-
- * 
+ *     아래에 프로그래머스 테스트 버젼있음
  * 
  * */
  
